@@ -4,10 +4,11 @@ A browser extension to Clean website pages' shits (ADs)
 
 ## Supported website pages 
 
-* youdao.com result page.
+* `youdao.com` result page
+* `baike.baidu.com` result page
+* `youtube.com` index page
 
-
-<a href="https://www.cnblogs.com/farwish/p/12148808.html" target="_blank">Show all example</a>.
+* <a href="https://www.cnblogs.com/farwish/p/12148808.html" target="_blank">Show example</a>
 
 ## How to use this extension
 
