@@ -4,7 +4,10 @@ Websites' shit cleaner
 
 ## Supported websites' pages 
 
-youdao.com 结果页
+* youdao.com result page.
+
+
+<a href="https://www.cnblogs.com/farwish/p/12148808.html" target="_blank">Show all example</a>.
 
 ## How to use this extension
 
@@ -36,6 +39,6 @@ quasar dev -m bex
 quasar build -m bex
 ```
 
-2/3. Maybe only change the content-script.js
+2/3. Maybe you only need to change the content-script.js
 
 3/3. Load the src-bex/ on extension management page, chrome://extensions/
