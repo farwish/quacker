@@ -1,8 +1,8 @@
 {
-  "name": "quack",
+  "name": "quacker",
   "version": "0.0.1",
-  "description": "Websites' shit cleaner",
-  "productName": "quack",
+  "description": "清理网页广告的浏览器扩展 / A browser extension to Clean website pages' shits (ADs)",
+  "productName": "quacker",
   "cordovaId": "org.cordova.quasar.app",
   "capacitorId": "",
   "author": "ercom",

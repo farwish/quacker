@@ -11,16 +11,8 @@ A browser extension to Clean website pages' shits (ADs)
 
 ## How to use this extension
 
-First way
-``` 
-Find quack in chrome extension store.
 ```
-
-Second way
-```
-load `./dist/bex/Packaged/chrome/quack.zip` into chrome browser.
-OR
-load `./dist/bex/Packaged/firefox/quack.zip` into firefox browser.
+Input chrome://extensions/ in chrome browser, and drag file `./dist/bex/Packaged/chrome/quacker.zip` into the manage page.
 ```
 
 ## How to start locally development
