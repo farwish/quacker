@@ -1,8 +1,8 @@
-# quack
+# quacker
 
-Websites' shit cleaner
+A browser extension to Clean website pages' shits (ADs)
 
-## Supported websites' pages 
+## Supported website pages 
 
 * youdao.com result page.
 
@@ -17,10 +17,10 @@ Find quack in chrome extension store.
 ```
 
 Second way
-``` 
-load `dist/dist/bex/Packaged/chrome/quack.zip` into chrome browser.
+```
+load `./dist/bex/Packaged/chrome/quack.zip` into chrome browser.
 OR
-load `dist/dist/bex/Packaged/firefox/quack.zip` into firefox browser.
+load `./dist/bex/Packaged/firefox/quack.zip` into firefox browser.
 ```
 
 ## How to start locally development

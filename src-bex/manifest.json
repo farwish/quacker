@@ -1,6 +1,6 @@
 {
-  "name": "quasar-browser-extension",
-  "description": "A Quasar web extension",
+  "name": "quacker",
+  "description": "清理网页广告的浏览器扩展 / A browser extension to Clean website pages' shits (ADs)",
   "version": "1.0.0",
   "manifest_version": 2,
   "icons": {
@@ -9,7 +9,7 @@
     "128": "icons/icon128x128.png"
   },
   "browser_action": {
-    "default_title": "quasar-browser-extension",
+    "default_title": "quacker",
     "default_popup": "www/index.html"
   },
   "background": {
