@@ -7,6 +7,8 @@
     DetailRightBaiduAdv: document.getElementById('baidu-adv')
   }
   for (let key in YouDaoCom) {
-    YouDaoCom[key].style.display = 'none'
+    if (YouDaoCom[key]) {
+      YouDaoCom[key].style.display = 'none'
+    }
   }
 })()

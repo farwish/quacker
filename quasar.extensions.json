@@ -6,7 +6,7 @@
       "background_color": "#000074",
       "splashscreen_type": "pure"
     },
-    "build_always": true,
+    "build_always": false,
     "__internal": {
       "dev": {
         "bex": {
