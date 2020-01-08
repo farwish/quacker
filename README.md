@@ -4,11 +4,31 @@ A browser extension to Clean website pages' shits (ADs)
 
 ## Supported website pages 
 
-* `youdao.com` result page
-* `baike.baidu.com` result page
-* `youtube.com` index page
+```
+[ blog.csdn.net ] Article page
 
-* <a href="https://www.cnblogs.com/farwish/p/12148808.html" target="_blank">Show example</a>
+Clear `left side` two ADs, `middle side` one AD, `bottom side` several ADs, Maybe most infamous now!
+```
+
+```
+[ youdao.com ] Result page
+
+Clear `top side` one AD and `right side` one AD
+```
+
+``` 
+[ baike.baidu.com ] Result page
+
+Clear `right side` one AD
+```
+
+``` 
+[ youtube.com ] Index page
+
+Clear `top side` one AD
+```
+
+* <a href="https://www.cnblogs.com/farwish/p/12148808.html" target="_blank">Show several example</a>
 
 ## How to use this extension
 
