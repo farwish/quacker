@@ -32,9 +32,7 @@ Clear `top side` one AD
 
 ## How to use this extension
 
-```
-Input chrome://extensions/ in chrome browser, and drag file `./dist/bex/Packaged/chrome/quacker.zip` into the manage page.
-```
+Download <a target="_blank" href="https://github.com/farwish/quacker/blob/master/dist/bex/Packaged/chrome/quacker.zip">quacker.zip</a>, then Drag into page chrome://extensions/ on chrome browser
 
 ## How to start locally development
 
