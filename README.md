@@ -53,3 +53,11 @@ quasar build -m bex
 2/3. Maybe you only need to change the content-script.js
 
 3/3. Load the src-bex/ on extension management page, chrome://extensions/
+
+## Other words 
+
+I think this project can be extended to more complex extension, like that `ublock` extension does.
+
+Today i think more convenience way to clear ADs is using `ublock` extension OR `brave` browser in real world.
+
+Thanks.
